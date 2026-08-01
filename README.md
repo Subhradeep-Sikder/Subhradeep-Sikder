@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Subhradeep-Sikder/Subhradeep-Sikder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Subhradeep Sikder
 
-Here are some ideas to get you started:
+Aspiring Software Engineer · Full-Stack (MERN / Next.js) · DSA in C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhradeep-sikder-19b3b928b/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/isdsikder)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Subhradeep_Sikder/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/subhradeepsikder)
+
+</div>
+
+---
+
+### About
+
+- B.Tech CSE @ Siliguri Institute of Technology — graduating 2027.
+- Build full-stack products end-to-end.
+- Enjoy DSA in C++ 
+- Into AI-integrated apps, curious about Web3.
+
+### Stack
+
+<div align="center">
+
+![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,react,nextjs,nodejs,express,mongodb,postgres,prisma,tailwind,docker)
+
+</div>
+
+---
+
+<div align="center">
+
+Feel free to reach out.
+
+</div>
