@@ -16,8 +16,8 @@ Aspiring Software Engineer · Full-Stack (MERN / Next.js) · DSA in C++
 ### About
 
 - B.Tech CSE @ Siliguri Institute of Technology — graduating 2027.
-- Build full-stack products end-to-end.
-- Enjoy DSA in C++ 
+- Building full-stack products end-to-end.
+- Enjoying DSA in C++ 
 - Into AI-integrated apps, curious about Web3.
 
 ### Stack
