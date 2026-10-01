@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=80&lines=Hi%2C+I%27m+Subhradeep+Sikder" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Subhradeep+Sikder;Aspiring+Software+Engineer;Full-Stack+(MERN+%2F+Next.js);DSA+in+C%2B%2B" alt="Typing SVG" />
+</a>
 
 </div>
 
