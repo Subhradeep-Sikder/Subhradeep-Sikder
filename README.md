@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=80&cursor=true&lines=Hi%2C+I%27m+Subhradeep+Sikder&v=1" alt="Hi, I'm Subhradeep Sikder" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=36&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=80&cursor=true&lines=Hi%2C+I%27m+Subhradeep+Sikder&repeat=false&v=2" alt="Hi, I'm Subhradeep Sikder" />
 
 </div>
 
