@@ -1,6 +1,10 @@
 <div align="center">
 
-# Hi, I'm Subhradeep Sikder
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=80&lines=Hi%2C+I%27m+Subhradeep+Sikder" />
+
+</div>
 
 Aspiring Software Engineer · Full-Stack (MERN / Next.js) · DSA in C++
 
